@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrunal1324&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal1324" />
 </p>
 
-🎓 **Computer Engineering Student** | 💻 **Data Science Enthusiast** | 🚀 **CTO @ Astraeus NextGen**
+🎓 **Computer Engineering Student** 
 
 ---
 
@@ -17,7 +17,7 @@ With industry experience at **Bajaj Finserv**, **Mastercard**, and leadership as
 - 📍 Pune, India  
 - 💼 Open to Full-Time & Internship Opportunities  
 - 📧 **Email:** mrunaldeshmukh78@gmail.com  
-- 📄 [Resume](#) _(link here if hosted online)_
+- 📄 [Portpolio](#) _([link](https://mrunalportpolio.netlify.app/?nocache=1744105186311))_
 
 ---
 
@@ -70,12 +70,15 @@ With industry experience at **Bajaj Finserv**, **Mastercard**, and leadership as
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunal1324&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal1324&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrunal1324&show_icons=true&theme=radical&border_radius=10" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal1324&layout=compact&theme=radical&border_radius=10" width="45%" />
 </p>
+
+
 
 ---
 
@@ -84,9 +87,7 @@ With industry experience at **Bajaj Finserv**, **Mastercard**, and leadership as
 <a href="https://www.linkedin.com/in/mrunal-deshmukh-4a28b6229/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/mrunaldeshmukh78" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-</a>
+
 
 ---
 
