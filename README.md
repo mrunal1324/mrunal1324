@@ -1,67 +1,94 @@
-# Hi there 👋 I am Mrunal Deshmukh
+# 👋 Hi there, I'm Mrunal Deshmukh!
 
-<!--
-**mrunal1324/mrunal1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<h4>I'm a student currently pursuing a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology with a keen interest in App Development.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal1324&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal1324" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunal1324" alt="mrunal1324" /></a> </p>
-
-### IDE and Tools I have Used:
-<div>
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
- <img height="40" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
- <img height="40" width="40" src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png"/>
- <img height="40" width="40" src="https://img.icons8.com/color/50/000000/git.png"/>
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  
-  <a href="https://flutter.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  
-  <a href="https://dart.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  
-  <a href="https://www.python.org" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
-  <a href="https://firebase.google.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
- 
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- 
-  <a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- 
-  <a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- 
-  <a href="https://www.qt.io/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning SQL
-- 🤔 I’m looking for help with app development in flutter and DBMS
-- 📫 How to reach me: mrunaldeshmukh78@gmail.com
-- 😄 Pronouns: She/Her
-
-<p align="center">
-<div>
-<img height = "180" width = "500" src="https://github-readme-stats.vercel.app/api?username=mrunal1324&show_icons=true&theme=radical" alt="mrunal1324">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunal1324&show_icons=true&locale=en&layout=compact" alt="mrunal1324" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=mrunal1324&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal1324" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mrunal-deshmukh-4a28b6229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrunal-deshmukh-4a28b6229" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrunaldeshmukh78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adi_more7000" height="30" width="40" /></a>
+🎓 **Computer Engineering Student** | 💻 **Data Science Enthusiast** | 🚀 **CTO @ Astraeus NextGen**
+
+---
+
+## 👩‍💻 About Me
+
+I am a final-year Computer Engineering student at **Pune Institute of Computer Technology**, driven by a passion for solving real-world problems through technology.
+
+With industry experience at **Bajaj Finserv**, **Mastercard**, and leadership as **CTO at Astraeus NextGen**, I bring a blend of strong technical skills and team-oriented leadership. I'm excited about the intersection of AI, data, and impactful solutions.
+
+- 📍 Pune, India  
+- 💼 Open to Full-Time & Internship Opportunities  
+- 📧 **Email:** mrunaldeshmukh78@gmail.com  
+- 📄 [Resume](#) _(link here if hosted online)_
+
+---
+
+## 💡 Skills
+
+### 🛠 Technical Skills  
+**Languages:** Python, C++, SQL  
+**Frameworks/Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, OpenCV  
+**Tools:** Git, VS Code, IntelliJ IDEA, Power BI, Streamlit, Postman  
+**Platforms:** Linux, Firebase, MongoDB  
+
+### 💼 Soft Skills  
+- Problem-Solving  
+- Analytical Thinking  
+- Team Collaboration  
+- Project Management  
+- Leadership
+
+---
+
+## 🧠 Work Experience
+
+### 👨‍💼 Chief Technology Officer (CTO) — *Astraeus NextGen*  
+**Dec 2023 – Present**  
+- Spearheaded AI-powered platform development for defense and intelligence sectors  
+- Reduced infra overhead by 35% with microservice containerization  
+- Led cross-functional teams and shaped decentralized AI strategies
+
+### 💻 Software Engineer Intern — *Mastercard*  
+**May 2024 – Jul 2024**  
+- Optimized data flow across Jenkins, MongoDB, and KeystoneJS  
+- Improved system efficiency by 15%, reduced processing time by 25%  
+- Built Node.js functions for accurate data retrieval
+
+### 📊 Data Science Intern — *Bajaj Finserv*  
+**Aug 2023 – Nov 2023**  
+- Scraped data from 50+ sources; built 200k+ data points dataset  
+- Streamlined data pipelines to improve analysis accuracy by 40%
+
+---
+
+## 🛠 Tools & IDEs
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" height="40"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" height="40"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrunal1324&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal1324&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mrunal-deshmukh-4a28b6229/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/mrunaldeshmukh78" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+
+---
+
+_© 2025 Mrunal Deshmukh. All Rights Reserved._
+
